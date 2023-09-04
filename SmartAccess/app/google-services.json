@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432012783769",
+    "project_id": "smartaccess-ca7da",
+    "storage_bucket": "smartaccess-ca7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432012783769:android:0f505c2aef78f9e2398808",
+        "android_client_info": {
+          "package_name": "com.example.smartaccess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432012783769-d476sjamhdt2tq5mbufpg9a6eninp41n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATxmS785qs6gib7Z756TiOmLM0TTEkyi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432012783769-d476sjamhdt2tq5mbufpg9a6eninp41n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
